@@ -59,7 +59,7 @@ STM32F401-MPU6050-Driver-Benchmark/<br />
 
 #### Quick Start
 1. Clone the repository
-   * git clone https://github.com/yourusername/MPU6050_DriverBenchmark.git
+   * git clone ```https://github.com/carresed/MPU6050_DriverBenchmark.git```
 2. Open in STM32CubeIDE
    * Import the project folders (HAL_Driver/STM32CubeIDE, LL_Driver, etc.). <br />Build and flash to your Nucleo-F401RE board.
 
